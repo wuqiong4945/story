@@ -1,0 +1,21 @@
+$info=shocktr2
+Shock Troopers 2nd Squad
+
+$story
+[PLOT]
+DIO, a terrorist organization led by a man called Nakatomi, has threatened the world's leaders to submit to their will. After DIO completely eradicates a city, a squad of Shock Troopers are sent to deal with the threat.
+
+[CHARACTERS]
+- Leon
+tall tough guy with glasses. He's the strongest but slowest character.
+
+- Angel
+robust blond and the woman counterpart to Leon. Gains some speed but also loses one block of strength.
+
+- Lulu
+lady with bobbed haircut. Fastest character yet also the weakest. Has several wide spread attacks to compensate.
+
+- Toy
+tanned man with bright orange hair. Male counterpart of Lulu but has a stronger attack stat. Uses laser guns to fight.
+
+$end

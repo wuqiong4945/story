@@ -1,0 +1,54 @@
+$info=grdians
+Guardians / Denjinmakai II
+
+$story
+[PLOT]
+Techno City, a city filled with advance technologies that it looks like a city from the distant future. Everyone wanted to live under this wonderful, highly advance city.
+
+Just then, the leader of the city became mad and started to wreck havoc all across. He created strong biomutants and powerful technological warriors, teamed up with his army of enhanced humans, the leader spreads his chaos all over the city.
+
+In the mist of all the chaos, one man rose up against it. A young commander that controls "Smash" , an elite unit functions as guardians of Techno City. With the help of his eight guardians, the "Smash" unit wages war with the leader.
+
+The battle for the fate of Techno City begins...
+
+[CHARACTERS]
+- Zeldia - The Heroine
+Zeldia is the 2nd returnee to the game, although she is drastically different: she is now a blue haired girl with wings and claws, with moves focused on dive attacks and slamming enemies around.
+She is a very balanced character in terms of speed, strength, and charging rate.
+
+- Jinrei - The Ninja
+Jinrei, a small ninja with insanely long hair, debuts in this game: he has all of the typical ninja moves and in such fashion is the fastest player in the game.
+Jinrei possess the speed attribute of a ninja. While his may not be as strong, his fighting technique is unmatched.
+Combining great speed and superb technique, Jinrei can get through a crowd of enemies virtually untouched.
+
+- Girulian - The Hero
+Girulian who was the main villain of the first game but apparently becomes the big hero of this game: he comes complete with a Cyclops rip off eye laser.
+As the hero of the game, Girulian is evenly matched to Zeldia.
+Focusing more on power, this slightly balanced young warrior can hold out against a big crowd with little difficulty.
+
+- Kurokishi - The Biker Gal
+Kurokishi is our first returnee to the game, except now she is not only blonde but apparently found the smallest outfit possible: she has an awesome gun that freezes enemies.
+If you think Zeldia is cute looking, wait till you see Kurokishi. This hot-looking Gal is got a load of pain to deliver to an enemy that's on the receiving end. Do not judge her by her appearance, her fighting style is deadly and they hurt!
+She has slightly more power and speed than Zeldia. When she is on the field, everybody is going to get a load of pain.
+
+- Rou - The Martial-Art Master
+Rou, a karate fighter and possible magician, debuts in this game: he has an electric whip, can send magic waves, and apparently stole Gambit's flaming cards.
+This powerful master skilled in the deadly martial art is to be taken seriously. You can feel the power as each hits knocks the incoming enemy and send him/her flying away.
+Alone on the field, the enemies won't even see the fast attacks before crashing to the ground.
+
+- Skullbyule - The Devil
+Skullbyule, a huge mutant/dinosaur hybrid, debuts in this game: he takes the previous powerhouse spot Zeldia had and can attack with his tongue, with a tusk hidden in the arm, and release killer flies from inside the scales.
+If I were to judge him by first impression, I would say he is the closest thing resembling Death.
+This power-packing alien will make the enemy freak just by looking, and his array of lethal attacks will wipe them out of existence.
+
+- Tulks - The Powerhouse
+Tulks is the 3rd returnee to the game, and he is just as big and as jacked as before: this time he has an over-sized pistol that he can shoot enemies with.
+Now we're talking muscle man here, Final Fight style. However, Tulks is way more powerful than Haggar with his array of powerful moves.
+When he's on the field, there are going to be lots of broken necks, and bodies crushed to bits.
+
+- P.Belva - The Ultra Machine
+Belva is the 4th and final returnee to the game, this time he has a P in front of his name and is also gold and blue in color: he also possesses blades in his knees and guns in his arms.
+Normally, powerful characters trade their power at the expenses of speed. However, this is not the case for P.Belva. This powerful, yet agile ultra fighting machine can almost be considered to be the perfect character.
+He can combine with anyone and turn it into a kick-ass team.
+
+$end

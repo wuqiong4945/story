@@ -1,0 +1,24 @@
+$info=batcir
+Battle Circuit
+
+$story
+[PLOT]
+Taking place in the future year 20XX, Battle Circuit follows the exploits of a group of super-powered bounty hunters as they apprehend wanted criminals (identified by special serial numbers) in the city of Neo Koba. The game begins with player attempting to apprehend criminal 9696X, a scientist named Doctor Saturn and his blob-like sidekick aboard his spacecraft orbiting Earth. After the battle, the character selected by the player returns to his employer, Harry, and is promptly given another assignment to capture the leader of the "Delete Gang", Johnny, who holds a valuable floppy disk in his possession. The bounty hunter then confronts Johnny at his disco hideout and learns that the disc contains a malicious computer program known as the "Shiva (Tentei) System", which is capable of controlling all computerized systems in the world. After selecting one of the available characters, players must travel through various levels- fighting through a variety of enemies from the Delete Gang- to obtain the disc and claim their bounty.
+
+[CHARACTERS]
+- Brian Bruno (Cyber Blue)
+A seasoned bounty hunter with several cybernetic attachments to his body, giving him the ability to discharge electricity and project energy from his fists. Cyber Blue makes a cameo appearance in Project X Zone 2 in Captain Commando's Solo Unit attack.
+
+- Andrey Mishucin (Captain Silver)
+A highly accomplished bounty hunter who can stretch and shape his body at will. His powers give him the ability to project ice particles from his body, as well as create a number of objects from his suit. Because of the vast nature of his powers, they will threaten to overwhelm him if he should ever lose concentration.
+
+- Diana Martines (Yellow Iris, called Yellow Beast in the original Japanese version)
+A part-time fashion model whose feral appearance gives her access to a number of clawing and agility-based techniques. She is also skilled with a whip and is accompanied by her pet fox "Fin". Yellow Iris makes a cameo appearance in Ultimate Marvel vs. Capcom 3 as a DLC costume for Felicia.
+
+- Pinky (Pink Ostrich)
+A large, sentient, pink ostrich with an eye patch]and jewel necklace who is always accompanied by her owner, a young girl named Pola Abdul. Purportedly, she is the "only ostrich in the world who can fly", and attacks with an assortment of aerial and spinning techniques.
+
+- Unknown (Alien Green)
+An alien creature of unknown origin who resembles a large venus flytrap with leg-like roots and a large eye in its abdomen. Its attacks mostly center around its vine-like arms, which it can quickly swing to create whirlwinds, as well as grab opponents and slam them against the ground.
+
+$end

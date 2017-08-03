@@ -1,0 +1,23 @@
+$info=crysking
+The Crystal of Kings
+
+$story
+[PLOT]
+During the age known as "The Twilight of the Gods", when the Gods knew they were about to leave the world, they transferred all of their power into Crystals and entrusted them to the people so they could maintain their ways of life. Unfortunately, the people grew corrupt and fought over the Crystals. The crystals were sealed away so that no one could find them, but now, the Dark Wizard, Nightspirit, has found one of the crystals, and has used it to create an evil army so that he may conquest to obtain the rest of the crystals and dominate the earth.
+
+Nightspirit grew corrupt with his crystal's power. Dubbing himself the Crystal of Kings, he unleashed a hellish army of monsters in an attempt to pillage the land's remaining crystals for himself. The just and elderly king of Estorea entrusted his country's crystal to his loyal knight, Cocco. He begs him to band together with the other kingdoms' warriors to destroy the evil tyrant.
+
+[CHARACTERS]
+- Cocco
+The protagonist. He is a dwarfish archer who rides on his kangaroo-like mount. Attacks with his mount and his arrows; fights well at all ranges and can dodge most of his enemies' attacks. His mount cannot be damaged but Cocco himself has relatively low defense. Uses earth magic.
+
+- Lustro Furia
+A blond swordsman dressed in red; often mistaken for being the protagonist. Close-ranged brawler with strong physical attacks. He fights with a broad sword and can summon a red dragon with his fire magic. He also has an extra form that can be unlocked at the character select screen.
+
+- Lung Xing
+A bald wizard with Asian motifs in his design. Contrary to other sorcerers in the genre, he has several physical melee attacks that can easily stun his opponents. Fights with a long staff and lightening magic.
+
+- Justicia
+A buxom elfin warrior in a white dress. She fights a lot like Lustro but has slightly better speed than him. Goes into battle with a sword and light magic, which she can use to heal herself and her party.
+
+$end

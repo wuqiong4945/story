@@ -1,0 +1,51 @@
+$info=dmnfrnt
+Demon Front
+
+$story
+[PLOT]
+20 light years beyond the earth, there's a planet called Andres, where resided by folks of peace, lived civilized and harmony…. except for the night when the red moon eclipse occurs. There's a myth that describes the mutation to demon of Andres people, every three years when the moon's eclipse happens.
+
+Unexpected for unknown reason, a solar eclipse happened in A.C. 2016, lasted for more than 3 months. All leaving creatures were exposed to this dark red light; they began to mutate from appearance to character. There was no escape none could avoid that. Those who survived were suffering from mutants' tortures, which turned the planet to living hell. Only few had escaped from their fates and lived in exile. One of them was Maya, who poses unusual power, was guided by a strange force to the valley…
+
+where he met Dr. J from planet LOUKAI. Dr. J looked different from other scientist, but he had shown with wisdom and courage that no doubt he was recognized as genius. With him were Jake and Sara, who emergency landed with a space shuttle from Earth.
+
+Facing such horrible situation Jake and Sara made the proposition to join their forces and overthrow evils that dominated this planet. Maya was determined to recover his homeland, in order to set his people free. Suddenly Dr. J took powerful weapons out of his arsenal and endless supplies. With all these resources four of them felt for the very first time the light of hope at the horizon.
+
+[CHARACTERS]
+- Jake
+Born place: Earth
+Age: 25
+Blood: A
+Height: 178 CM
+Weight: 72 KG
+Pet: Rage
+Pet attack type: Middle distance attack and protect
+
+- Sara
+Born place: Earth
+Age: 21
+Blood: O
+Height: 165 CM
+Weight: 49 KG
+Pet: Bunny
+Pet attack type: Long distance following up
+
+- Dr. J
+Born place: Loukai
+Age: 38
+Blood: AB
+Height: 172 CM
+Weight: 72 KG
+Pet: Chip
+Pet attack type: Close distance protect
+
+- Maya
+Born place: Amdums
+Age: 19
+Blood: B
+Height: 180 CM
+Weight: 81 KG
+Pet: Filp
+Pet attack type: Middle distance spread
+
+$end

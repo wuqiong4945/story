@@ -1,0 +1,52 @@
+$info=garou
+Garou - Mark of the Wolves
+
+$story
+[PLOT]
+10 years after crime lord Geese Howard's death, the city of Southtown has become more peaceful leading it to be known as the Second Southtown (having formerly been corrupted by Geese). However, a man named Kain R. Heinlein wants to take revenge on Geese for the poverty-stricken childhood he suffered and aims to become the new lord of Southtown, more violent than Geese. Wanting to find Geese's son, Rock Howard, and understand the meaning of his legacy, Kain creates a new fighting tournament called "King of Fighters: Maximum Mayhem". With the tournament and information about Rock's mother, Kain aims to make Rock join him in investigating Geese's legacy.
+
+[CHARACTERS]
+- Rock Howard
+Rock Howard is the son of Geese Howard and protégé of Terry Bogard as well as the new lead character of Garou. His fighting style combines techniques of both Terry and Geese, giving him an edge on both offense and defense. He wears a red and white jacket with a white star on the back, similar to Terry's classic vest.
+
+- Terry Bogard
+The main hero from the previous Fatal Fury games and the only returning fighter in Garou. In Garou, he has a new look: his long blond ponytail is trimmed, and he has exchanged his trademark red vest, hat, and sneakers for a brown bomber jacket and work boots. Terry has a new Desperation Move, the "Buster Wolf"; however, he can no longer perform his original trademark move, the "Rising Tackle", which now belongs to Rock Howard.
+
+- Kevin Rian
+Kevin is a high-spirited police officer of Second Southtown. He is also a friend to both Terry and Rock. He fights using Sambo (similar to his distant relative Blue Mary),[1] although much of his fighting style revolves more around direct strikes than grappling. He is cheered on during fights by his friend's son Marky. In Garou, he seeks revenge for the death of his partner, murdered by Freeman.
+
+- Bonne Jenet
+Bonne Jenet is a female pirate who is looking for treasure in Second Southtown. Her fighting style involve wind-like projectiles that hit multiple times, and swooping attacks intended to catch opponents with suddenly changing directions.
+
+- Kim Dong-Hwan
+Dong Hwan was taught Taekwondo by his father, Kim Kap-Hwan, using techniques infused with lightning, and has a friendly rivalry with his younger brother Kim Jae Hoon. He is more of a show-off and slacker than his brother, relying more on aerial attacks and juggles (i.e. attacks that strike the opponent into the air uncontrollably). He believes he is a "genius" in the story, and doesn't need to study diligently in order to master Taekwondo, but his father and brother see it differently.
+
+- Kim Jae-Hoon
+Jae Hoon was taught Taekwondo by his father, Kim Kap-Hwan, using techniques infused with fire, and is a brother of Dong Hwan's. Jae Hoon admires his father, so he fights more like him than Dong Hwan does, with a combination of high and low attacks with plenty of power behind them. Like his father, he has a strong sense of justice and chivalry, but unlike his brother, he establishes his strength through constant practice.
+
+- Gato
+Gato is a powerful fighter always in search of stronger opponents. He is the older brother of Hotaru Futaba, but hotly denies this. His actual background and motivations aside from these are unknown.
+
+- Hotaru Futaba
+Hotaru is the younger sister of Gato. She searches for her brother. She is generally very polite and charming, and is accompanied by her pet sable, Itokatsu. Her stage is a belfry, where a flock of birds removes her cloak.
+
+- Hokutomaru
+Hokutomaru is a ninja who trained under Andy Bogard. He is extremely fast and crafty (with many moves that are among the fastest in the game), making him a nearly unpredictable opponent to deal with. His stage is a traffic accident that he caused, as he was unfamiliar with urban ways due to his age and training. Hokutomaru carries a sword on his back, but he seldom draws it except during two special moves.
+
+- Khushnood Butt
+Butt is a Kyokugen-style karate expert, who trained under Ryo Sakazaki. He is named Marco Rodriguez in Japan, but was renamed in the U.S. version possibly to avoid confusion with mixed martial artist Ricco Rodriguez. He leads a somewhat austere life in a wooded area on the outskirts of town, and fights using powerful, deliberate attacks. Just like Ryo, he has several famous moves from Art of Fighting with some of his own derivatives.
+
+- Tizoc
+Tizoc is a famous pro wrestler in Second Southtown and is seen as a hero in the eyes of children. Somewhat disillusioned, he enters the tournament in order to rekindle his own interest in fighting. His name in Japanese versions of the game is "The Griffon Mask".
+
+- Freeman
+Freeman, real name unknown, is a mysterious English serial killer that fights using slashing movements with his hands as if they were claws. Little is known about him, except that he killed the partner of Kevin Rian. Many of Freeman's special techniques are references to heavy metal bands, such as Nightmare, Morbid Angel, Overkill, and Vision of Disorder.
+
+[BOSSES]
+- Grant
+Grant, real name Abel Cameron, is a master of the dark style known as Ankoku Karate. He is Kain R. Heinlein's closest friend and personal bodyguard.
+
+- Kain R. Heinlein
+Kain is the mysterious host of Southtown's "King of Fighters: Maximum Mayhem" tournament. Being the younger brother of Marie Howard (Geese Howard's deceased wife and thus Rock Howard's mother), he is Rock's uncle.
+
+$end

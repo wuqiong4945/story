@@ -1,0 +1,68 @@
+$info=avsp
+Alien v. Predator
+
+$story
+[PLOT]
+Sometime in the not-so-distant future, earth is being overrun by an alien invasion. In the American state of California, the Colonial Marines try to combat the alien invasion. In the thick of the action are Maj Schaefer and Lt. Kurosawa. Cornered by a massive group of aliens, the situation looks bad. The two are resolved to fight this onslaught to the end though.
+
+But just when the fight looks to be over, a beam of light appears. With a flash, an entire group of aliens is reduced to nothing. As the dust settles, a light crackle of electricity sounds and three creatures appear out of thin air. The one in the center beckons the marines to come with them. Realizing they have no choice if they want to get out alive, Kurosawa and Schaefer join their mysterious new companions. Are they friend or foe? And will they being able to stop the alien scourge?
+
+
+[CHARACTER]
+- PREDATOR WARRIOR
+CODE:XX-000082
+Favorite Weapon:P.Spear (Combi-Stick)
+Gun: Shoulder Cannon
+
+A proud leader, he seeks both prey to hunt, and kin who have gone missing on this world.
+
+Speed: 70% Average
+Power: 60% Average
+Skill: 65% Average
+
+A warrior from the stars who lives for combat. He searches the galaxy for worthy game to hunt. Equipped with powerful weapons, his honor will not let him take unfair advantage during a hunt.
+
+
+- PREDATOR HUNTER
+CODE:XX-000131
+Favorite Weapon: Halberd (Naginita)
+Gun: Shoulder Cannon
+
+A berserker, feared even by his own people.For him the hunt is all.
+
+Speed: 70% Average
+Power: 70% Average
+Skill: 45% Average
+
+A hunter from beyond. This young warrior seeks to prove himself by hunting the most dangerous creatures known. He will destroy himself rather than be defeated.
+
+
+- Lt. LINN KUROSAWA
+CODE:BH-00054C
+Favorite Weapon:Katana (Samurai-Sword)
+Gun: Large Caliber Pistol
+
+Honor bound to defend those who betrayed her, she still prays that it was a mistake.
+
+Speed: 60% Average
+Power: 20% Average
+Skill: 100%
+
+A cyborg who lead the 13th Colonial Marine Corps. She is a master of ancient martial arts which she combines with her super strength for lethal effect. Always equipped with a Japanese Katana, the blade represents her soul.
+
+
+- Maj. DUTCH SCHAEFER
+CODE:CDS-170A3
+Favorite Weapon: Anything he can get his hands on
+Gun: Smart Gun
+
+Abandoned by his superiors, he fights because it is what he knows... and loves.
+
+Speed: 30% Average
+Power: 100%
+Skill: 50% Average
+
+A cyborg created to fight extraterrestials. He lost his right arm in the 2nd Alien War, and has since had it replaced with a smartgun rig. He lives only to avenge himself against the aliens!
+
+
+$end

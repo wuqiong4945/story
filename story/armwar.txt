@@ -1,0 +1,43 @@
+$info=armwar
+Armored Warriors
+
+$story
+[PLOT]
+In the year 2281, the war spanning half a century over territory between the United World Forces and the Raian Kingdom had at last come to an end.
+
+But this peace was not to last. A year after a truce was signed between the two forces, former Raian army captain Azrael, who has converted himself into a cyborg in an attempt to become "the perfect warrior", has marshalled several thousand other cyborgs and declared war against the Raian Kingdom. Robbing mobile weapons from the army, this group of rogues has invaded the Raian capital of Merkid and begun to abduct the civilians.
+
+The United World Government, receiving an emergency message from the planet Raia, has but one choice: to organize and dispatch an army formed around its elite corps, a squadron of warriors called "Bloody Armor", to eradicate the enemy forces and rescue the civilians.
+
+And so, in October 2282, the United World Forces begin to embark attack upon the planet Raia. The most intense battle in human history is about to begin...
+
+[CHARACTERS]
+- 1st Lieutenant Jeff Perkins
+A well-designed machine that is equally matched in all areas of combat. Its firepower is below average but makes up slightly greater attack distance.
+Callsign: Rash
+Mech: AEX-10M BLODIA
+Details: Developed as a hand to hand combat unit, Blodia is capable of operating under various conditions through the use of optional equipment.
+Story: Belonged to the 32nd ground squadron stationed at Campella Base in the southern hemisphere as part of the Unified Solar System Space Force. The perfect example of a reckless warrior, he always takes front position during raids on enemy strongholds.
+
+- Captain Ray Turner
+A mecha designed for close ranged/melee combat. Its light and mobile specifications make it plausible for high-speed situations.
+Callsign: Justice (Justis)
+Mech: SVA-6L REPTOS
+Details: Originally a Raian army unit. The armor plating itself forms the main framework structure, and is directly coupled with the drive system. This weight-reduced design makes it capable of high-speed combat.
+Story: A Raian military bureaucrat dispatched to Earth upon the conclusion of the peace treaty with the Raian Kingdom in 2281, as an "Ambassador of Eternal Peace".
+
+- Major Glenn Reed
+A power-type mech used for absorbing damage and plowing through opposition. Its high attack statisitics give it a low speed designation, however.
+Callsign: Grey
+Mech: AEX-10H GULDIN
+Details: Because special generators are built into each arm as well as the main body, this unit has overwhelming power and particularly shows its worth during fortress raids.
+Story: Surviving member of the 13th Special Squadron (a.k.a. Gods of Death), the most feared by friendly and enemy forces. Bitter over the loss of most of his subordinates and colleagues during that time, he is known to take an excessively strict attitude towards his own men.
+
+- 2nd Lt Sarah White
+An extremely fast mech used for rushing attacks and a featuring a high mobility. It lacks a sufficient amount of armor and must use its speed to avoid damage.
+Callsign: Siren
+Mech: AEX-12J FORDY
+Details: In addition to the use of a Light-Class frame, the unit itself is of very compact design, resulting in extreme mobility.
+Story: The child of a human mother and a Raian father, she grew up in a slum camp. Though spirited and spunky, she occasionally shows tenderness to others.
+
+$end

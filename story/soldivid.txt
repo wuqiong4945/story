@@ -1,0 +1,18 @@
+$info=soldivid
+Sol Divide - Sword of Darkness
+
+$story
+[PLOT]
+Sol Divide's story isn't anything too interesting. There is an evil empire that is out to take over a fantasy realm and it's up to three powerful warriors to stop him.
+
+[CHARACTERS]
+- Kashon
+A blue skinned guy with wings. He looks kind of like a cross between a Na'vi and an angel. He's out to go and save his race for extinction.
+
+- Vorg
+A black knight who defected from the evil empire because he realized that it is evil and wants to redeem himself. His characterization isn't exactly original, but at least he looks cool.
+
+- Tyora
+A female playable character. She's a wizard that looks like she's about fifteen, but really, she's hundreds of years old. She is the realm's guardian and will stop at nothing to protect the people from the evil empire.
+
+$end

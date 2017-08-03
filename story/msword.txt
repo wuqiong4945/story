@@ -1,0 +1,13 @@
+$info=msword
+Magic Sword - Heroic Fantasy
+
+$story
+[PLOT]
+The story is set in a nameless world, which is being oppressed by the resurrected Evil Lord Drokmar and his armies of ghouls and monsters. Drokmar's immense evil power comes from an artifact known as the Black Orb, a crystal that has increased the Evil Lord's powers significantly. By request of the ruler of the land, the main character (originally "The Brave One", later named Alan) accepts to destroy the orb and bring light back to the lands. But in order to do it, he'll need to ascend the 50-story Dragon Keep and defeat Drokmar's five sages, claiming the Magic Swords in their possession so he'll have a fighting chance against Drokmar, awaiting in floor 50.
+
+At the game's end, when Drokmar is defeated, the player has the option of two endings: Destroy the Black Orb, or to take control of it, becoming the new dark lord.
+
+[CHARACTERS]
+- Brave One, Alan
+
+$end
